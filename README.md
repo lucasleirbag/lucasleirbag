@@ -7,8 +7,7 @@ Me chamo Lucas! Sou Dev Full Stack.
 👩🏻‍🤝‍👨🏽 Família<br>
 ⚡️ Esforçado
 
-## 🧠 O que eu conheço e uso
-### 📚 Linguagens e Frameworks
+### 🧠 O que eu conheço e uso
 - Python
 - C# (.NET e .NET CORE)
 - HTML5
