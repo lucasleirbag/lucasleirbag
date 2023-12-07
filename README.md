@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Olá, me chamo Lucas! Sou Dev Full Stack.
+Me chamo Lucas! Sou Dev Full Stack.
 
 ## 🤓 Valores
 🙏🏽 Deus<br>
