@@ -25,4 +25,4 @@ Me chamo Lucas! Sou Dev Full Stack.
 
 ## 🔗 Entre em contato
 - Site pessoal: https://lucasleirbag.github.io/post_lucas/#
-- linkedin: https://www.linkedin.com/feed/
+- linkedin: https://www.linkedin.com/in/lucasleirbag/
