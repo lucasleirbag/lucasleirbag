@@ -10,6 +10,7 @@ Me chamo Lucas! Sou Dev Full Stack.
 ### 🧠 O que eu conheço e uso
 - Python
 - C# (.NET e ASP.NET MVC)
+- PHP
 - AJAX
 - Entity Framework
 - HTML5
