@@ -11,11 +11,7 @@ Me chamo Lucas! Sou Dev Full Stack.
 - Python
 - C# (.NET e ASP.NET MVC)
 - PHP
-- AJAX
-- Entity Framework
-- HTML5
-- CSS3
-- JavaScript (jQuery)
+- Front (HTML5, CSS e JS)
 - Docker Container
 - SQLServer
 - Machine Learning
