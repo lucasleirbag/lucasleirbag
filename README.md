@@ -6,7 +6,7 @@ Me chamo Lucas! Sou Dev Full Stack.
 - PHP
 - Front (HTML5, CSS e JS)
 - Docker Container
-- SQLServer
+- SQL (Server e My)
 - Machine Learning
 ## 🔗 Entre em contato
 - Site pessoal: https://lucasleirbag.github.io/post_lucas/#
