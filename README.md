@@ -1,13 +1,12 @@
 ### Olá 👋
-Sou o Lucas! Sou Dev Full Stack.
+Sou o Lucas! Sou Dev Back End.
 ### 🧠 O que eu conheço e uso
+- C# (.NET)
 - Python
-- C# (.NET e ASP.NET MVC)
-- PHP
-- Front (HTML5, CSS e JS)
+- Clean Architecture
 - Docker Container
 - SQL (Server e My)
-- Machine Learning
+- Machine Learning e Deep Learning
 ## 🔗 Entre em contato
 - Site pessoal: https://lucasleirbag.github.io/post_lucas/#
 - linkedin: https://www.linkedin.com/in/lucasleirbag/
