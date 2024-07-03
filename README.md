@@ -1,5 +1,5 @@
 ### Olá 👋
-Sou o Lucas! Sou Dev Back End.
+Sou o Lucas! Sou Dev BackEnd.
 ### 🧠 O que eu conheço e uso
 - C# (.NET)
 - Python
