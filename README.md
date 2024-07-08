@@ -8,5 +8,5 @@ Sou o Lucas! Sou Dev BackEnd.
 - SQL (Server e My)
 - Machine Learning e Deep Learning
 ## 🔗 Entre em contato
-- Site pessoal: https://lucasleirbag.github.io/Port/
+- Portifólio: https://lucasleirbag.github.io/Port/
 - linkedin: https://www.linkedin.com/in/lucasleirbag/
