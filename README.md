@@ -10,5 +10,5 @@ Sou o Lucas! Sou Dev BackEnd.
 - Machine Learning e Deep Learning
 
 ## 🔗 Entre em contato
-- Portfólio: [Link](https://lucasleirbag.github.io/Port/)
+- [Portfólio](https://lucasleirbag.github.io/Port/)
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lucasleirbag/)
