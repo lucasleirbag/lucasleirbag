@@ -5,8 +5,8 @@ Sou o Lucas! dev BackEnd.
 - C# (.NET)
 - Python
 - Docker Container
-- SQL (Server e My)
-- Machine Learning e Deep Learning
+- SQL (Server, MySQL e Postgres)
+- Machine Learning e Deep Learning (computer vision)
 
 ## 🔗 Entre em contato
 - [Portfólio](https://lucasleirbag.github.io/Port/)
